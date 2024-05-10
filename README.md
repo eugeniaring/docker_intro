@@ -8,6 +8,6 @@ The article with the explanations is []()
 
 ## Structure of the project
 
-* ```preprocess.py```: Python script to train a churn prediciton model and make predictions
+* ```train_churn_model.py```: Python script to train a churn prediciton model and make predictions
 * ```requirements.txt```: contains all the dependencies
 * ```Dockerfile```: file that created the environment and executes our application in it
